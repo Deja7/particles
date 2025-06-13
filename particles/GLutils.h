@@ -127,7 +127,7 @@ public:
 		glEnable(GL_BLEND);
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		glEnable(GL_POINT_SIZE);
-		glPointSize(10.f);
+		//glPointSize(10.f);
 		glLineWidth(10.f);
 		//glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 	}
